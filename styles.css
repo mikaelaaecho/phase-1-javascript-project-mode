@@ -1,0 +1,12 @@
+body {
+    background-color:beige;
+}
+.container {
+    display: flex;
+    align-items: flex-start; 
+    max-width: 900px;
+}
+.container img {
+    margin-right: 15px; 
+    align-self: flex-start;
+}
